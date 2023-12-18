@@ -11,6 +11,7 @@ f6690ae5-220a-406b-879b-24e12ef7b182:Chairs:Chairs
 aca57c8a-06cf-4610-aa91-b71bb9e642f7:Electronics:Electronics
 3490f08d-d5e8-461d-a57d-fe3e942e338c:Lamps:Lamps
 1e20e2ac-5bcf-4a90-b518-4d113f94923d:Plants:Plants
+605a4216-1ea2-4102-a349-3dfd4d67cfc5:Sign:Sign
 43973744-f9d1-4fb9-aab5-c195868da9d5:Tables:Tables
 e03f443c-8ec7-451f-af97-5ccd94c5032a:Vehicles:Vehicles
 1baad4a9-7abe-4b7c-b6be-2df06d14cf46:WIndows:WIndows
