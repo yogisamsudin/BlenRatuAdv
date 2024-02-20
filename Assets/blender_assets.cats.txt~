@@ -9,9 +9,12 @@ VERSION 1
 f6690ae5-220a-406b-879b-24e12ef7b182:Chairs:Chairs
 0a606244-3ab9-4af5-a272-3b9da35c4e45:Doors:Doors
 aca57c8a-06cf-4610-aa91-b71bb9e642f7:Electronics:Electronics
+18f50860-babc-40af-9b01-301dd93bd9e6:Fences:Fences
 3490f08d-d5e8-461d-a57d-fe3e942e338c:Lamps:Lamps
+474716f6-021c-488e-96f0-1e23ab3d3735:Materials:Materials
 1e20e2ac-5bcf-4a90-b518-4d113f94923d:Plants:Plants
 605a4216-1ea2-4102-a349-3dfd4d67cfc5:Sign:Sign
+717b7598-d667-4d09-8798-13b16e1dcf31:Stairs:Stairs
 43973744-f9d1-4fb9-aab5-c195868da9d5:Tables:Tables
 e03f443c-8ec7-451f-af97-5ccd94c5032a:Vehicles:Vehicles
 1baad4a9-7abe-4b7c-b6be-2df06d14cf46:WIndows:WIndows
